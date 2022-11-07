@@ -1,5 +1,4 @@
 FROM ubuntu:18.04
-MAINTAINER Farhan Yuda Pahlevi <pahlevi.kun@gmail.com>
 
 # You can find out in here >>> https://developer.android.com/studio/index.html#command-tools
 ENV VERSION_TOOLS "6514223"
